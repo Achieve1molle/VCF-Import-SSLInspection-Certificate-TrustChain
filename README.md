@@ -50,6 +50,5 @@ Automate deploying a trusted root certificate **chain** across VMware and Linux 
 
 ### Run (UI)
 
-```powershell
+powershell
 pwsh -File .\SSLChain.ps1
-``
